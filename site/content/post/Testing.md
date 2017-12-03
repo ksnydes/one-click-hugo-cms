@@ -1,3 +1,11 @@
+---
+title: Kristin Testing
+date: 2017-11-01T15:04:10.000Z
+description: >-
+  Having a bad day?
+image: /img/blog/chemex.jpg
+---
+
 Hi there, my name is Kristin and I'm stressed out of my mind.
 
 Sometimes I get really frustrated and I want to throw things across the room. 
